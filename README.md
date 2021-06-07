@@ -33,4 +33,6 @@ Goal - I want to know your favorite Animes.
 8. NARUTO
 9. Dennokoiru
 10. CLANNAD
-11.Poketmon
+11. Poketmon
+12. Humanity Has Declined
+
