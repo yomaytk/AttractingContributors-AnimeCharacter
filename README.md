@@ -21,4 +21,4 @@ I want contributors who can help me list Youtubers, even Vtubers.
 
 ## List of Youtuber.
 
-1. Ui Shigure
+1. Shigure Ui
