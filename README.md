@@ -20,5 +20,16 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Your Hometown
-Tochigi
+# List of number
+- 8
+- 1000000007
+- 27
+- 137438691328
+- 11
+- 6
+- 918
+- 255
+- 21
+- 24
+- 66
+- 001
