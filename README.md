@@ -15,9 +15,10 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Youtuber-collection)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+I want contributors who can help me list Youtubers, even Vtubers.
 
-# List of Hobby
+## List of Youtuber.
+
+1. Ui Shigure
