@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors-number-
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -20,6 +20,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+
+Please tell me your favorite number
 # List of number
 - 8
 - 1000000007
@@ -33,3 +35,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - 24
 - 66
 - 001
+- 15
+- 14
+- 417
+- 42
+
