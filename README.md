@@ -32,3 +32,4 @@ I want contributors who can help me list Youtubers, even Vtubers.
 9. Anija Otojya
 10. Hiroyuki
 11. Asakura Mikuru
+12. Gawr Gura
