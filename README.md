@@ -31,3 +31,4 @@ I want contributors who can help me list Youtubers, even Vtubers.
 8. Hanao
 9. Anija Otojya
 10. Hiroyuki
+11. Asakura Mikuru
