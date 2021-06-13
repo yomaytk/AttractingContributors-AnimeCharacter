@@ -29,4 +29,5 @@ I want contributors who can help me list Youtubers, even Vtubers.
 6. Mito Tsukino
 7. TOKAI Onair
 8. Hanao
-9. Hiroyuki
+9. Anija Otojya
+10. Hiroyuki
