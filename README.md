@@ -25,3 +25,4 @@ I want contributors who can help me list Youtubers, even Vtubers.
 2. QuizKnock
 3. HIKAKIN
 4. Real AKIBA Boys
+5. THE FIRST TAKE
