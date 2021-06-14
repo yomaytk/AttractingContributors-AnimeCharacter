@@ -39,3 +39,4 @@ Goal - I want to know your favorite Animes.
 14. Higurashi no Naku Koro ni
 15. School Days
 16. Jujutsu Kaisen
+17. Chihayafuru
