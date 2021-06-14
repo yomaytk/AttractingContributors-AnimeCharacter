@@ -29,4 +29,4 @@ I want contributors to help me list your favorite color.
 8. black
 9. grey
 10. orange
-11. <span style="color: #68be8d; ">若竹色</span>
+11. <span style="color: #68be8d;">若竹色</span>
