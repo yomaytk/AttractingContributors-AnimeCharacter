@@ -30,4 +30,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Asuka
 - Misaka Mikoto
 - Ayase Chihaya
+- Xincan Feng
 - Furude Rika
