@@ -36,4 +36,5 @@ Goal - I want to know your favorite Animes.
 11. Poketmon
 12. Humanity Has Declined
 13. Jarinko chie
-14. Higurashi no Naku Koro ni
+14. Jujutsu Kaisen
+15. Higurashi no Naku Koro ni
