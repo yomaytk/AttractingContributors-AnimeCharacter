@@ -15,9 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Color-Collection) 
+I want contributors to help me list your favorite color.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Color
+1. white
+2. blue
+3. yellow
+4. green
+5. red
+6. purple
+7. cyan
+8. black
+9. grey
+10. orange
