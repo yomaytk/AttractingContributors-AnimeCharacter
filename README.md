@@ -36,4 +36,8 @@ Goal - I want to know your favorite Animes.
 11. Poketmon
 12. Humanity Has Declined
 13. Jarinko chie
-14. Detective Conan
+14. Higurashi no Naku Koro ni
+15. School Days
+16. Jujutsu Kaisen
+17. Chihayafuru
+18. Detective Conan
