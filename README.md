@@ -28,3 +28,4 @@ Goal - I want contributors to help me list some favorite food.
 5. Curry Laksa
 6. deep-fried eggplant
 7. Bread
+8. yakiniku
