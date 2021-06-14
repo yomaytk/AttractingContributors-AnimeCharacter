@@ -1,26 +1,32 @@
-# you want a pull request, right?
-hi dear all :>  
-my hobby is send to pull request,really :^)  
-I want to send to pull request to everyone *<|:‑)  
-  
-# If you want to send me a pull request
-You can write anything :)  
-e.g.  
-What are the best things to put on a salad.  
-What are the best things to put in a smoothie.  
-what do you think of pull request.  
-emoji  
-1 word or 1 character OK  
-  
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
+
+1. Please choose a hobby or some interest that you want to build your repository
+2. Make a README to announce this theme (i.e., my favourite video games or anime)
 3. Attract - Go to https://github.com/NAIST-SE/AttractingContributors/discussions, post an interesting message to ask other members to add a list. See example below.
 4. Please collect up to 10 hobbies or interest from other contributors. You can also discuss and talk about the hobby before you merge their Pull Request.
 
-# chat
- * Hyacinth
- * good!
- * Nice 2 meet u
- * Thanks!
+# Requirements
+To complete the assignment, please do the following:
+1. Fork this project and then rename the title to your hobby. 
+2. Announce the new project and try to attract other members.
+3. Make 10 Pull Request contributions to other projects
+4. Merge 10 Pull Requests into your forked Project.
+
+# My Project (Color-Collection) 
+I want contributors to help me list your favorite color.
+
+# List of Color
+1. white
+2. blue
+3. yellow
+4. green
+5. red
+6. purple
+7. cyan
+8. black
+9. grey
+10. orange
+11. <span style="color: #68be8d; ">若竹色</span>
