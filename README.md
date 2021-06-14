@@ -40,3 +40,4 @@ Goal - I want to know your favorite Animes.
 15. School Days
 16. Jujutsu Kaisen
 17. Chihayafuru
+18. Detective Conan
