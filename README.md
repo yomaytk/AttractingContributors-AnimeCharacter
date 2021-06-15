@@ -33,3 +33,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Xincan Feng
 - Furude Rika
 - konan
+- 中野梓
+- Mion Sonozaki
